@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/vick/Documentos/proyectos/hello/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/home/vick/Documentos/proyectos/hello/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.0/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/home/vick/Documentos/proyectos/MarvelApp/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/home/vick/Documentos/proyectos/MarvelApp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.0/res/xml/preferences.xml"
+    }
+]

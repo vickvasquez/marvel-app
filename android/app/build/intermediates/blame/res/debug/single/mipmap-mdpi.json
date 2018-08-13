@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/vick/Documentos/proyectos/MarvelApp/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/vick/Documentos/proyectos/MarvelApp/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/vick/Documentos/proyectos/hello/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/vick/Documentos/proyectos/hello/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]
